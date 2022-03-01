@@ -5,49 +5,34 @@
 </div>
 
 # Goal
-
+ 
 To allow applicants a chance to demonstrate their ability to use modern web techniques to solve the types of problems that this position would encounter.
-
+ 
 # Problem
-
-For site visitors who use the brave browser, our Virtual Tour section does not load. Instead, there is a large blank space where the tour should be. (See image below.)
-
+ 
+For site visitors who use the Brave browser, our Virtual Tour section does not load. Instead, there is a large blank space where the tour should be. See image below.
+ 
 <div align="center">
-    <img src="imgs/no-tour.jpg">
+   <img src="imgs/no-tour.jpg">
 </div>
-
+ 
 # Your Task
-
-Create a "Fallback" solution so that in the event that the Virtual Tour does not load, the site visitor will still have a visually pleasing way to do the following:
+ 
+Create a "Fallback" solution so that, in the event the Virtual Tour does not load, the site visitor will still have a visually pleasing way to do the following:
 <ol>
-   <li>See that there is a Virtual Tour</li>
-   <li>View the Virtual Tour with just one click (just like if it was working)</li>
-</ol> 
-
-**Reminder** The "Fallback" solution should only trigger in situations where the default virtual tour does not work.
-# Rules of Engagement 
-
-Using Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS frameworks besides Bootstrap and **Do NOT** use any Javascript frameworks. 
-
+  <li>See that there is a Virtual Tour</li>
+  <li>View the Virtual Tour with just one click (just like if it was working)</li>
+</ol>
+ 
+**Reminder** The "Fallback" solution should only trigger in situations where the default Virtual Tour does not work.
+# Rules of Engagement
+ 
+Use Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS frameworks besides Bootstrap and **Do NOT** use any Javascript frameworks.
+ 
 # Show and Tell
-
-
-During interviews each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem. To allow a smooth process, place any Javascript or CSS edits in the "my-solutions" folder. Also use HTML commenting when adding or removing classes and HTML in index.html.
-
-
-```html
-    <!-- .added-class was added to #oru-virtual-tour as part of my solution -->
-    <section id="oru-virtual-tour added-class">
-        <!-- Solution Snippet -->
-        <div>
-            ...
-        </div>
-```
-
-# Final Notes
-
-We are most interested in the how and why of your solution. How did you tackle this problem? Can you walk us throgh how you implemented it? 
-Why did you chose this particular solution over the others? If you would like to show off your UI design skills, this is a perfect place to do it. If design is not your strentgh, then feel free to use the pre-existing CSS and we will except Bootstrap basic styling for your soltion (only the part that you have added everything else should remain the same). 
+Fork our Applicant Skill Assessment repo on GitHub. When you are finished email me the URL to your forked repo. I'll use this link during the interview.
+ 
+During interviews, each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem. To allow a smooth process, place any Javascript or CSS edits in the "my-solutions" folder.
 
 
 
