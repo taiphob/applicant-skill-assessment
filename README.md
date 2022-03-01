@@ -31,9 +31,17 @@ Using Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS fram
 
 # Show and Tell
 
-During your interview each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem.
+During interviews each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem. To allow a smooth process, place any Javascript or CSS edits in the "my-solutions" folder. Also use HTML commenting when adding or removing classes and HTML in index.html.
 
 
+```html
+    <!-- .added-class was added to #oru-virtual-tour as part of my solution -->
+    <section id="oru-virtual-tour added-class">
+        <!-- Solution Snippet -->
+        <div>
+            ...
+        </div>
+```
 
 
 
