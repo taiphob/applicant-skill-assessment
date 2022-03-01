@@ -4,11 +4,39 @@
     <img src="imgs/assessment-hero-2.jpg">
 </div>
 
-# 👀 What is ZenML?
+# Goal
 
-**ZenML** is an extensible, open-source MLOps framework to create production-ready machine learning pipelines. Built for data scientists, it has a simple, flexible syntax, is cloud- and tool-agnostic, and has interfaces/abstractions that are catered towards ML workflows.
+To allow applicants a chance to demonstrate their ability to use modern web techniques to solve the types of problems that this position would encounter.
 
-At its core, **ZenML pipelines execute ML-specific workflows** from sourcing data to splitting, preprocessing, training, all the way to the evaluation of results and even serving. There are many built-in batteries to support common ML development tasks. ZenML is not here to replace the great tools that solve these individual problems. Rather, it **integrates natively with popular ML tooling** and gives standard abstraction to write your workflows.
+# Problem
+
+For site visitors who use the brave browser, our Virtual Tour section does not load. Instead, there is a large blank space where the tour should be. (See image below.)
+
+<div align="center">
+    <img src="imgs/no-tour.jpg">
+</div>
+
+# Your Task
+
+Create a "Fallback" solution so that in the event that the Virtual Tour does not load, the site visitor will still have a visually pleasing way to do the following:
+<ol>
+    <li>Inform the site visitor that there is a Virtual Tour</li>
+    <li>Provide an easy, on-click way for them to view Virtual Tour (just like if it was working)</li>
+</ol> 
+
+**Reminder** The "Fallback" solution should only trigger in situations where the default virtual tour does not work.
+# Rules of Engagement 
+
+Using Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS frameworks besides Bootstrap and **Do NOT** use any Javascript frameworks. 
+
+# Show and Tell
+
+During your interview each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem.
+
+
+
+
+
 
 🎉 **Version 0.6.2 out now!** [Check out the release notes here](https://github.com/zenml-io/zenml/releases).
 
