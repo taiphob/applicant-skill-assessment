@@ -4,11 +4,11 @@
     <img src="imgs/assessment-hero-2.jpg">
 </div>
 
-# Goal
+#  🥅 Goal
  
 To allow applicants a chance to demonstrate their ability to use modern web techniques to solve the types of problems that this position would encounter.
  
-# Problem
+# 🐛 Problem
  
 For site visitors who use the Brave browser, our Virtual Tour section does not load. Instead, there is a large blank space where the tour should be. See image below.
  
@@ -16,7 +16,7 @@ For site visitors who use the Brave browser, our Virtual Tour section does not l
    <img src="imgs/no-tour.jpg">
 </div>
  
-# Your Task
+# 🏗 Your Task
  
 Create a "Fallback" solution so that, in the event the Virtual Tour does not load, the site visitor will still have a visually pleasing way to do the following:
 <ol>
@@ -25,15 +25,15 @@ Create a "Fallback" solution so that, in the event the Virtual Tour does not loa
 </ol>
  
 **Reminder** The "Fallback" solution should only trigger in situations where the default Virtual Tour does not work.
-# Rules of Engagement
+# 🧑🏽‍⚖️ Rules of Engagement
  
 Use Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS frameworks besides Bootstrap and **Do NOT** use any Javascript frameworks.
  
-# Show and Tell
+# 👩🏽‍🏫 Show and Tell
 During interviews, each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem. To allow a smooth process, place any Javascript or CSS edits in the "my-solutions" folder.
 
-# Get Started
+# 🟢 Get Started
 Fork our <a href="https://github.com/orumarketing/applicant-skill-assessment">Applicant Skill Assessment</a> repo on GitHub and start coding! When you are finished send the URL to your forked repo to josanders@oru.edu. 
 
-# Deadline
+# 🏁 Deadline
 URLs will be due **Sunday, March 13th**. Make sure your last commits are on or before the 13th.
