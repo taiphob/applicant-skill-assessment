@@ -33,7 +33,7 @@ Use Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS framew
 During interviews, each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem. To allow a smooth process, place any Javascript or CSS edits in the "my-solutions" folder.
 
 # Get Started
-Fork our [Applicant Skill Assessment repo] (https://oru.edu) on GitHub and start coding! When you are finished send the URL to your forked repo to josanders@oru.edu. 
+Fork our <a href="https://github.com/orumarketing/applicant-skill-assessment">Applicant Skill Assessment</a> repo on GitHub and start coding! When you are finished send the URL to your forked repo to josanders@oru.edu. 
 
 # Deadline
 URLs will be due Sunday, March 13th. Make sure your last commits are on or before the 13th.
