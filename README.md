@@ -30,10 +30,13 @@ Create a "Fallback" solution so that, in the event the Virtual Tour does not loa
 Use Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS frameworks besides Bootstrap and **Do NOT** use any Javascript frameworks.
  
 # Show and Tell
-Fork our Applicant Skill Assessment repo on GitHub. When you are finished email me the URL to your forked repo. I'll use this link during the interview.
- 
 During interviews, each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem. To allow a smooth process, place any Javascript or CSS edits in the "my-solutions" folder.
 
+# Get Started
+Fork our [Applicant Skill Assessment repo] (https://oru.edu) on GitHub and start coding! When you are finished send the URL to your forked repo to josanders@oru.edu. 
+
+# Deadline
+URLs will be due Sunday, March 13th. Make sure your last commits are on or before the 13th.
 
 
 
