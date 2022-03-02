@@ -37,3 +37,6 @@ Fork our <a href="https://github.com/orumarketing/applicant-skill-assessment">Ap
 
 # 🏁 Deadline
 URLs will be due **Sunday, March 13th**. Make sure your last commits are on or before the 13th.
+
+# 🙋🏻 Questions?
+Send any questions to josanders@oru.edu.
