@@ -10,7 +10,10 @@ To allow applicants a chance to demonstrate their ability to use modern web tech
  
 # 🐛 Problem
  
-For site visitors who use the Brave browser, our Virtual Tour section does not load. Instead, there is a large blank space where the tour should be. See image below.
+For site visitors who use the Brave browser, our Virtual Tour section does not load. Instead, there is a large blank space where the tour should be. See image below. 
+
+### Pro Tip
+The iframe will load on your local file in the Brave Browser. See "index-bugged.html" for a simulation of what would happen if this file was on a live server.
  
 <div align="center">
    <img src="imgs/no-tour.jpg">
@@ -22,6 +25,7 @@ Create a "Fallback" solution so that, in the event the Virtual Tour does not loa
 <ol>
   <li>See that there is a Virtual Tour</li>
   <li>View the Virtual Tour with just one click (just like if it was working)</li>
+  <li><a href="https://docs.github.com/en/pages/quickstart">Display your solution on your free GitHub page.</a></li>
 </ol>
  
 **Reminder** The "Fallback" solution should only trigger in situations where the default Virtual Tour does not work.
