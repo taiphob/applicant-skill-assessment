@@ -33,7 +33,10 @@ Create a "Fallback" solution so that, in the event the Virtual Tour does not loa
 **Reminder** The "Fallback" solution should only trigger in situations where the default Virtual Tour does not work.
 # 🧑🏽‍⚖️ Rules of Engagement
  
-Use Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS frameworks besides Bootstrap and **Do NOT** use any Javascript frameworks.
+Use Bootstrap, HTML, CSS, and/or Javascript. **Do NOT** use any other CSS frameworks besides Bootstrap and **Do NOT** use any Javascript frameworks. Javascript libraries are fair game!
+
+### Focus on the Solution not the Design
+This assessment is more concerned with getting a better understanding of how well you identify and solve issues than with your UI design skills. Your solutions responsiveness is more important than the aesthetics. No points will be deducted for using the base Bootstrap styling. Just make sure that the colors match.  
  
 # 👩🏽‍🏫 Show and Tell
 During interviews, each applicant will be asked to demonstrate their solution, prove it solves the problem, and explain why they believe their solution is the best for the problem. To facilitate a smooth process, place any Javascript or CSS edits in the <a href="https://github.com/orumarketing/applicant-skill-assessment/tree/main/my-solutions">my-solutions folder</a>.
