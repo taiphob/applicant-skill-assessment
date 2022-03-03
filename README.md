@@ -13,7 +13,7 @@ To allow applicants a chance to demonstrate their ability to use modern web tech
 For site visitors who use the Brave browser, our Virtual Tour section does not load. Instead, there is a large blank space where the tour should be. See image below. 
 
 ### Pro Tip
-The iframe will load on your local file in the Brave Browser. To "see" the bug open index-bugged.html for a simulation of what would happen if this file was on a live server.
+The iframe will load on your local file in the Brave Browser. To "see" the bug, open <a href="https://github.com/orumarketing/applicant-skill-assessment/blob/main/index-bugged.html">index-bugged.html</a> for a simulation of what would happen if this file was on a live server.
  
 <div align="center">
    <img src="imgs/no-tour.jpg">
